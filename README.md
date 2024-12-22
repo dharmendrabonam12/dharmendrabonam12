@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bonam Dharmendra</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-  <img src="https://komarev.com/ghpvc/?username=dharmendrabonam12&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendrabonam12" style="width: 150px; height: auto;" />
+  <img src="https://komarev.com/ghpvc/?username=dharmendrabonam12&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendrabonam12" style="width: 100px; height: auto;" />
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -34,15 +34,22 @@
   </a>
 </p>
 
+
 <!-- GitHub Stats -->
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <div style="flex: 1; text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmendrabonam12&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ff00" alt="dharmendrabonam12" />
+<div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+  <!-- Top Row with Two Images -->
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 800px;">
+    <div style="flex: 1; text-align: left;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmendrabonam12&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00ff00" alt="dharmendrabonam12" style="width: 350px; height: auto;" />
+    </div>
+    <div style="flex: 1; text-align: right;">
+      <img src="https://github-readme-stats.vercel.app/api?username=dharmendrabonam12&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&title_color=00ff00" alt="dharmendrabonam12" style="width: 350px; height: auto;" />
+    </div>
   </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=dharmendrabonam12&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&title_color=00ff00" alt="dharmendrabonam12" />
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendrabonam12&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff" alt="dharmendrabonam12" />
+
+  <!-- Bottom Row with Centered Image -->
+  <div style="margin-top: 20px; text-align: center; width: 100%; max-width: 350px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendrabonam12&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff" alt="dharmendrabonam12" style="width: 350px; height: auto;" />
   </div>
 </div>
+
